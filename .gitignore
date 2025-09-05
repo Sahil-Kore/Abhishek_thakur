@@ -1,7 +1,8 @@
-./MNIST/brendan45774
-./BPM_prediction/inputs
-./BPM_prediction/models
-./Cat-in-the-dat/inputs
-./Cat-in-the-dat/models
-./US adult census/models
-./US adult census/inputs
+MNIST/brendan45774
+BPM_prediction/inputs
+BPM_prediction/models
+Cat-in-the-dat/inputs
+Cat-in-the-dat/models
+US-adult-census/models
+US-adult-census/inputs
+
